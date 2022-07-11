@@ -5,7 +5,7 @@
 
 
 - A human frist then and Engineer 👨‍💻👨‍💻
-- A fullstack Javascript developer with 3+ years of professional experience 🤘🏻
+- A fullstack Javascript developer 🤘🏻
 - I love good music and i love to play the drums 🥁🥁
 
 - Love working on exciting projects and creating solutions that makes life better.
