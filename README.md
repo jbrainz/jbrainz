@@ -4,7 +4,7 @@
 
 
 
-- A human frist then and Engineer 👨‍💻👨‍💻
+- A human frist then an Engineer 👨‍💻👨‍💻
 - A fullstack Javascript developer 🤘🏻
 - I love good music and i love to play the drums 🥁🥁
 
