@@ -6,5 +6,5 @@
 
 - A human frist then an Engineer 👨‍💻👨‍💻
 - A fullstack Javascript developer 🤘🏻
-
+- Self driven.
 - Love working on exciting projects and creating solutions that makes life better.
