@@ -1,10 +1,12 @@
-# Hi there, Pius here.  👋
-## Software Engineer Based in Tallinn, Estonia 💻.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbrainz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbrainz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+# Full Stack Engineer
 
+Enthusiastic Full Stack Engineer with a passion for developing robust and user-friendly applications. Proficient in both frontend and backend technologies, I specialize in creating responsive and scalable web solutions. My skills include:
 
+- Frontend: HTML, CSS, JavaScript, React.js, Nextjs, Vuejs
+- Backend: Node.js, Express.js, Graphql, Nestjs
+- Databases: MongoDB, SQL, Postgress
+- Version Control: Git, GitHub
 
-- A human first then an Engineer 👨‍💻👨‍💻
-- A full-stack Javascript/Typescript developer 🤘🏻
-- Self-driven and attention to detail.
-- Love working on exciting projects, and new technologies.
+I have hands-on experience in designing and implementing features, optimizing code, and ensuring seamless user experiences. Eager to contribute to innovative projects and collaborate with like-minded professionals.
+
+Let's build something amazing together!
